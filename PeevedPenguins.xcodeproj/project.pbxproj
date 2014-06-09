@@ -38,6 +38,7 @@
 		EB5BE7C619414F0F000A4B6C /* Penguin.m in Sources */ = {isa = PBXBuildFile; fileRef = EB5BE7C519414F0F000A4B6C /* Penguin.m */; };
 		EB5BE7CA19414F1B000A4B6C /* Seal.m in Sources */ = {isa = PBXBuildFile; fileRef = EB5BE7C919414F1B000A4B6C /* Seal.m */; };
 		EB5BE7CD194154CD000A4B6C /* Gameplay.m in Sources */ = {isa = PBXBuildFile; fileRef = EB5BE7CC194154CD000A4B6C /* Gameplay.m */; };
+		EBD5759B1945A380003AA34C /* WaitingPenguin.m in Sources */ = {isa = PBXBuildFile; fileRef = EBD5759A1945A380003AA34C /* WaitingPenguin.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -97,6 +98,8 @@
 		EB5BE7C919414F1B000A4B6C /* Seal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Seal.m; sourceTree = "<group>"; };
 		EB5BE7CB194154CD000A4B6C /* Gameplay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Gameplay.h; path = Source/Gameplay.h; sourceTree = "<group>"; };
 		EB5BE7CC194154CD000A4B6C /* Gameplay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Gameplay.m; path = Source/Gameplay.m; sourceTree = "<group>"; };
+		EBD575991945A380003AA34C /* WaitingPenguin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WaitingPenguin.h; path = Source/WaitingPenguin.h; sourceTree = "<group>"; };
+		EBD5759A1945A380003AA34C /* WaitingPenguin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = WaitingPenguin.m; path = Source/WaitingPenguin.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,6 +141,8 @@
 				EB5BE7CB194154CD000A4B6C /* Gameplay.h */,
 				EB5BE7CC194154CD000A4B6C /* Gameplay.m */,
 				EB5BE7C419414F0F000A4B6C /* Penguin.h */,
+				EBD575991945A380003AA34C /* WaitingPenguin.h */,
+				EBD5759A1945A380003AA34C /* WaitingPenguin.m */,
 				EB5BE7C519414F0F000A4B6C /* Penguin.m */,
 				EB5BE7C819414F1B000A4B6C /* Seal.h */,
 				EB5BE7C919414F1B000A4B6C /* Seal.m */,
@@ -335,6 +340,7 @@
 			files = (
 				EB5BE7CA19414F1B000A4B6C /* Seal.m in Sources */,
 				B737893F1807617C0076A88C /* AppDelegate.m in Sources */,
+				EBD5759B1945A380003AA34C /* WaitingPenguin.m in Sources */,
 				B7378994180767190076A88C /* MainScene.m in Sources */,
 				EB5BE7C619414F0F000A4B6C /* Penguin.m in Sources */,
 				B73789871807631A0076A88C /* main.m in Sources */,
