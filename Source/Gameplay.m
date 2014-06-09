@@ -37,7 +37,7 @@ static const float MIN_SPEED = 5.f;
     [_levelNode addChild:level];
     
     // visualize physics bodies & joints
-    _physicsNode.debugDraw = TRUE;
+    //_physicsNode.debugDraw = TRUE;
     
     // catapultArm and catapult shall not collide
     [_catapultArm.physicsBody setCollisionGroup:_catapult];
