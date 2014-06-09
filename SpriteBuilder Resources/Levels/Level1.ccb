@@ -1583,7 +1583,7 @@
 						<key>value</key>
 						<array>
 							<real>474</real>
-							<real>204</real>
+							<real>205</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -1835,6 +1835,8 @@
 				</array>
 			</dict>
 		</array>
+		<key>selected</key>
+		<true/>
 	</dict>
 	<key>notes</key>
 	<array/>
